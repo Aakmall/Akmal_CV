@@ -4,7 +4,7 @@ import "./resume.css";
 const Resume = () => {
   return (
     <div>
-      Resume
+        Resume
     </div>
   )
 }
