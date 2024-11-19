@@ -9,7 +9,7 @@ const Sidebar = () => {
       <a href="#home" className="nav__logo">
         <img src="" alt="" />
       </a>
-
+    
       <nav className="nav">
         <div className="nav__menu">
           <ul className="nav__list">
