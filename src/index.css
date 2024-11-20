@@ -104,19 +104,19 @@ img{
 
 .section__title {
   font-size: var(--h1-font-size);
-  margin-left: 0.875;
+  margin-left: 0.875rem;
   font-weight: var(--font-bold);
   position: relative;
   margin-bottom: 3.75rem;
 }
 .section__title::before{
   content: "";
-  background: url(./Assets/background.jpg);
+  background: url(./Assets/aset/dots-bg.svg);
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;
-  left: -0.875rem;
-  top: -0.875em;
+  left: -1rem;
+  top: -0.275em;
 }
 
 .btn {
