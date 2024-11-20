@@ -3,6 +3,7 @@ import "./home.css";
 import me from "../../Assets/botak(2).png";
 import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
+import Shapes from "./shapes";
 
 const Home = () => {
   return (
@@ -18,6 +19,8 @@ const Home = () => {
 
         <ScrollDown />
       </div>
+
+      <Shapes />
     </section>
   );
 };
